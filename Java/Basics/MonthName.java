@@ -6,7 +6,7 @@ public class MonthName {
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Program to Display Month Name using Switch Case\n");
-
+        
         // User Input
         System.out.print("Enter the month name: ");
         int monthName = sc.nextInt();
