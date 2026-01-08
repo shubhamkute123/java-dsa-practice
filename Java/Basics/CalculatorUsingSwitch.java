@@ -45,8 +45,12 @@ public class CalculatorUSingSwitch {
                 break;
 
             case '%':
-                result = num1 % num2;
-                System.out.println(num1+ " % " +num2+ " = " +result);
+                if(num2 != 0) {
+                    result = num1 % num2;
+                    System.out.println(num1+ " % " +num2+ " = " +result);
+                } else {
+                    System.out.println("Error: Modulus by zero is not allowed");
+                }
                 break;
         
             default:
