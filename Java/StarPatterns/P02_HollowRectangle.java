@@ -1,5 +1,5 @@
 // Program to print a hollow rectangle star pattern
-public class P2_Hollow_Rectangle {
+public class P02_HollowRectangle {
     public static void main(String args[]) {
         
         int n = 4;
