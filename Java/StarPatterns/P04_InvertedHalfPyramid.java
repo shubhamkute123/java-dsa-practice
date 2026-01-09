@@ -1,5 +1,5 @@
 // Program to print an inverted half pyramid star pattern
-public class P4_Inverted_Half_Pyramid {
+public class P04_InvertedHalfPyramid {
     public static void main(String args[]) {
 
         int n = 4;
