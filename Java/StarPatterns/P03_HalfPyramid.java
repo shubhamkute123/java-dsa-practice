@@ -1,5 +1,5 @@
 // Program to print a half pyramid star pattern
-public class P3_Half_Pyramid {
+public class P03_HalfPyramid {
     public static void main(String args[]) {
       
         int n = 4;
