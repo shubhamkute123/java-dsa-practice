@@ -1,5 +1,5 @@
 // Program to print a solid rectangle star pattern
-public class P1_Solid_Rectangle {
+public class P01_SolidRectangle {
     public static void main(String args[]) {
         
         int n = 4;
