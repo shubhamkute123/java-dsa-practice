@@ -63,6 +63,7 @@ Time Complexity:
 Push Operation : O(1)
 Pop Operation  : O(1)
 Peek Operation : O(1)
+Display Operation: O(n)
 
 Space Complexity:
 O(n)
