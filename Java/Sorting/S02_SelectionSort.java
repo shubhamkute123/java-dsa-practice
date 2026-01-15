@@ -2,7 +2,7 @@
 public class S02_SelectionSort {
     public static void main(String[] args) {
 
-        System.out.println("Selection Sort...\n");
+        System.out.println("Selection Sort...");
         int[] arr = {80, 30, 40, 10, 70};
         int n = arr.length;
         int smallest, temp;
@@ -28,9 +28,16 @@ public class S02_SelectionSort {
 }
 
 /*
-time complexity = O(n^2)
+Time Complexity:
+Best Case    : O(n^2)
+Average Case : O(n^2)
+Worst Case   : O(n^2)
+
+Space Complexity:
+O(1)
+
 Output:
 Selection Sort...
-
-10 30 40 70 80 
+10 30 40 70 80
 */
+
